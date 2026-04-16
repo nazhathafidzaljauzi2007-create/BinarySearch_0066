@@ -42,7 +42,7 @@ void bubbleSortArray()
         {
             if (element[j] > element[j + 1])
             {
-                int temp = element[j];
+                int temp = element[j]; 
                 element[j] = element[j + 1];
                 element[j + 1] = temp;
             } 
