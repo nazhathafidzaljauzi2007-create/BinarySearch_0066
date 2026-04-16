@@ -6,7 +6,7 @@ int nPanjang;
 int x;
 
 void input()
-{
+{ 
     while (true)
     {
         cout << "Masukkan banyaknya elemen pada array (maksiaml 10): ";
